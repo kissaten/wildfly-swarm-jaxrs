@@ -1,7 +1,7 @@
 {
-  "name": "Wildfly Swarm JAX-RS Example",
-  "description": "An example app running JBoss Wildfly Swarm using JAX-RS.",
-  "website": "http://wildfly-swarm.io/",
+  "name": "Thorntail JAX-RS Example",
+  "description": "An example app running Thorntail using JAX-RS.",
+  "website": "http://thorntail.io/",
   "addons": [],
   "success_url": "/"
 }
